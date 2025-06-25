@@ -61,13 +61,13 @@ src/
 git clone git@github.com:VALARMATHISAMUVEL/The-hungry-bites.git
 cd The-hungry-bites
 
-## 2. Install dependencies
+2. Install dependencies
 npm install
 
-## 3. Start the development server
+3. Start the development server
 npm start
 
-## 🔐 Environment Setup
+🔐 Environment Setup
 Create a .env file in the root folder and add the following (replace with your Firebase values):
 PARCEL_FIREBASE_API=your_api_key
 PARCEL_FIREBASE_AUTHDOMAIN=your_project.firebaseapp.com
@@ -75,8 +75,9 @@ PARCEL_PROJECT_ID=your_project_id
 PARCEL_STORAGE_BUCKET=your_bucket
 PARCEL_MESS_SEND_ID=your_sender_id
 PARCEL_APP_ID=your_app_id
+---
 
-## 🙋‍♀️ Author
+🙋‍♀ Author
 S. Valarmathi
 Frontend Developer
 GitHub Profile
